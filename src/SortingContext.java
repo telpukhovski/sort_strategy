@@ -1,7 +1,3 @@
-import org.junit.Assert;
-
-import java.util.Arrays;
-
 public class SortingContext {
     Sorter sortStrategy;
 
