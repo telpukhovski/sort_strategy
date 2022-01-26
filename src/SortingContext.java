@@ -11,6 +11,5 @@ public class SortingContext {
 
     public void execute(int[] array) {
         sortStrategy.sort(array);
-        System.out.println(Arrays.toString(array));
     }
 }
